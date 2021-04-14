@@ -6,6 +6,8 @@ import py7zr
 
 root = Tk()
 root.title("MoDIK - загрузчик модов")
+root.geometry("400x300")
+
 
 
 def steam_path():
