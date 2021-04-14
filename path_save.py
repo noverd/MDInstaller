@@ -1,0 +1,1 @@
+paths_steam = [{'Dont Starve': '\\steamapps\\common\\dontstarve_steam\\mods'}]
